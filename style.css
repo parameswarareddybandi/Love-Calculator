@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: crimson;
+    color: white;
+}
+
+.Header {
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+    margin: 30px 0;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.Header p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+#boy , #girl{
+    border-radius: 50%;
+    width: 100px;
+}
+
+#heart-emoji {
+    font-size: 100px;
+}
+
+#image-holder {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#love-calculator {
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px 0;
+}
+
+input {
+    background: #d6d6d6;
+    color: black;
+    border: 3px solid black; 
+    border-radius: 5px;
+}
+
+#result {
+    text-align: center;
+    margin: 30px 30px;
+    width: 90%;
+}
+
